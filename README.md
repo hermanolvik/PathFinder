@@ -19,7 +19,7 @@ Screenshot:
 
 - **Multiple Graph Types**: Supports different types of graphs, including directed and undirected, with or without weights.
 - **Graph Visualization**: Offers a simple graphical representation of the graphs and paths.
-- **Algorithm Selection**: Utilizes several algorithms to find the shortest path, including Dijkstra's, A*, Bellman-Ford, and more.
+- **Algorithm Selection**: Utilizes UCS (Dijkstras) and A* search.
 - **Custom Graph Input**: Use custom graphs via text files - see the example graphs in the graphs folder.
 - **Performance Metrics**: Displays time and space complexity metrics for each algorithm's execution.
 
