@@ -1,6 +1,6 @@
 # PathFinder - A Java Program for Shortest Path Calculations
 
-**Algorithms implemented:** ucs, astar
+**Algorithms implemented:** UCS, A*
 
 **Graphs supported:** AdjacencyGraph, WordLadder, NPuzzle, GridGraph
 
