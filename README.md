@@ -4,7 +4,7 @@
 
 **Graphs supported:** AdjacencyGraph, WordLadder, NPuzzle, GridGraph
 
-PathFinder is a Java program designed to compute the shortest path between two nodes in a graph. This application can handle various types of graphs, including directed, undirected, weighted, and unweighted.
+PathFinder is a Java program for computing the shortest path between two nodes in a graph. It can handle various types of graphs, including directed, undirected, weighted, and unweighted.
 
 Collaborators on this project:
 - [@PontusBrylander](https://github.com/PontusBrylander)
