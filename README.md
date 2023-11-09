@@ -2,6 +2,10 @@
 
 PathFinder is a Java program designed to compute the shortest path between two nodes in a graph. This application can handle various types of graphs, including directed, undirected, weighted, and unweighted.
 
+Collaborators on this project:
+- [@PontusBrylander](https://github.com/PontusBrylander)
+- [@Johan-Franz](https://github.com/Johan-Franz)
+
 Screenshot:
 
 ![Screenshot 2023-11-09 at 17 35 56](https://github.com/hermanolvik/PathFinder/assets/72079200/8d3045e0-9ea0-4dc9-9b79-40ec256943b0)
