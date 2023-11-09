@@ -1,7 +1,8 @@
 # PathFinder - A Java Program for Shortest Path Calculations
 
-Algorithms implemented: ucs, astar
-Graphs supported: AdjacencyGraph, WordLadder, NPuzzle, GridGraph
+**Algorithms implemented:** ucs, astar
+
+**Graphs supported:** AdjacencyGraph, WordLadder, NPuzzle, GridGraph
 
 PathFinder is a Java program designed to compute the shortest path between two nodes in a graph. This application can handle various types of graphs, including directed, undirected, weighted, and unweighted.
 
